@@ -1,0 +1,11 @@
+Package: computedistance
+Type: Package
+Title: computedistance
+Version: 0.1.0
+Author: Shivam Kumar
+Maintainer: Shivam kumar <shivamk.bitsp@gmail.com>
+Description: compute distance between two locations by giving pair of latitude longitude as inputs
+License: 
+Encoding: 
+LazyData: FALSE
+RoxygenNote: 7.1.0
